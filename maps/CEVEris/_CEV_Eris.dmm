@@ -6686,7 +6686,7 @@
 "cyD" = (/obj/structure/catwalk,/obj/random/junk/low_chance,/turf/simulated/open,/area/eris/maintenance/oldtele)
 "cyE" = (/obj/structure/catwalk,/turf/simulated/open,/area/eris/maintenance/oldtele)
 "cyF" = (/obj/structure/disposalpipe/segment,/obj/machinery/atmospherics/pipe/simple/hidden/red,/turf/simulated/floor/plating/under,/area/eris/maintenance/section1deck2central)
-"cyG" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/machinery/computer/ordercomp,/turf/simulated/floor/tiled/steel/gray_platform,/area/eris/quartermaster/office)
+"cyG" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/machinery/computer/supplycomp/order,/turf/simulated/floor/tiled/steel/gray_platform,/area/eris/quartermaster/office)
 "cyH" = (/obj/machinery/atmospherics/pipe/zpipe/down{dir = 4},/turf/simulated/open,/area/eris/maintenance/section1deck4central)
 "cyI" = (/obj/machinery/atmospherics/pipe/zpipe/up{tag = "icon-up (WEST)"; icon_state = "up"; dir = 8},/turf/simulated/floor/plating/under,/area/eris/maintenance/section1deck2central)
 "cyJ" = (/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/machinery/shieldwallgen,/turf/simulated/floor/tiled/steel/cargo,/area/eris/engineering/engine_room)
